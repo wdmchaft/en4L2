@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>L1 Tile Language</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>enableSwipes</string>
+			<key>Title</key>
+			<string>Enable Swipe</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>Green</string>
+			<key>Key</key>
+			<string>LL</string>
+			<key>Title</key>
+			<string>Other Tile Language</string>
+			<key>Titles</key>
+			<array>
+				<string>Default</string>
+				<string>English</string>
+				<string>German</string>
+				<string>Spanish</string>
+				<string>French</string>
+				<string>Chinese</string>
+				<string>Italian</string>
+				<string>Korean</string>
+				<string>Japanese</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<string>DEFAULT</string>
+				<string>EN</string>
+				<string>DE</string>
+				<string>ES</string>
+				<string>FR</string>
+				<string>ZH</string>
+				<string>IT</string>
+				<string>KR</string>
+				<string>JP</string>
+			</array>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  fr4L2
+
+  Created by Harry Layman on 7/21/11.
+  Copyright 2011 NewportCoastSoftware. All rights reserved.
+*/
+"PAUSE" = "Pause";
+"RESUME" = "Continuer";
+"REVIEW" = "Révision";
+"PLAY" = "Jouer";
+"NOEMAMSG" = "  >>Laisser Correspondence Exacte» n'est pas activé.";
+"USERNAMESETP1" = "Nom d’utilisateur est mis >";
+"USERNAMESETP2" = "<. Mise à jour avec la touche «Nom de Joueur» à tout moment.";
+"GAMEPAUSED" = "Jeu en pause; pour recommencer cliquer <continuer> !";
+"YESAISB" = "Oui! %@ est %@.";
+"SORRYANOTBNEEDC" = "Désolé! %@ n’est pas  %@  -- besoin %@!";
+"SORRYNOEM" = "Désolé! %@ n’est pas  %@  -- besoin %@!   %@";
+"ENDREVIEWGAME" = "Revoir tout le jeu.  Appuyer sur la touche COMMENCER pour passer au mode JOUER. Ou continue révision avec un nouveau jeu ou tableau"; 
+"ENDOFGAMEMSG" = "Vous avez gagnez en %d secondes!!! Vous avez fait %d erreurs. Nom de Tableau : %@  Score : %d + (10×%d)  = %d";
+"WLCLEARSCORES" = "Wordz Lianxi Effacer Meilleur Résultat";
+"SCORESCLEARED" = "Meilleur Résultat sont Effacees.";
+"DONE" = "Fini";
+"ASKCLEARSCORES" = "Effacer Meilleur Résultat?";
+"CANCEL" = "Annuler";
+"OK" = "OK";

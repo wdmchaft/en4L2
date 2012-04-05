@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  fr4L2
+
+  Created by Harry Layman on 7/21/11.
+  Copyright 2011 NewportCoastSoftware. All rights reserved.
+*/
+"PAUSE" = "一時停止";
+"RESUME" = "再開する";
+"REVIEW" = "復習する";
+"PLAY" = "再生する ";
+"NOEMAMSG" = "  >> 完全な一致ができません（単語と単語、絵と絵）。>";
+"USERNAMESETP1" = " ユーザー名を ->";
+"USERNAMESETP2" = "<.";
+"GAMEPAUSED" = "ゲームは一時停止しました。>再開をクリックして下さい。<";
+"YESAISB" = "はい! %@は %@です。";
+"SORRYANOTBNEEDC" = "すみません! %@は %@ではありません  -- は%@が必要です!";
+"SORRYNOEM" = "すみません! %@は %@ではありません  -- は %@が必要です! %@";
+"ENDREVIEWGAME" = "終了したゲームを復習します。再生モードに変えるには再生ボタンを押して下さい。または新しいゲームかセットで、復習するを続けて下さい。"; 
+"ENDOFGAMEMSG" = "%d秒であなたの勝ちです!!%dの問題を間違えました。名前を登録する : %@　Score : %d + (10 × %d) = %d";
+"WLCLEARSCORES" = "Wordz Lianxi スコアをクリアする。";
+"SCORESCLEARED" = "高得点はクリアされます。";
+"DONE" = "完了";
+"ASKCLEARSCORES" = "高得点をクリアしますか?";
+"CANCEL" = "キャンセル";
+"OK" = "OK";

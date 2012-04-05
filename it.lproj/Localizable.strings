@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  fr4L2
+
+  Created by Harry Layman on 7/21/11.
+  Copyright 2011 NewportCoastSoftware. All rights reserved.
+*/
+"PAUSE" = "Pausa";
+"RESUME" = "Cont.";
+"REVIEW" = "Rivedi";
+"PLAY" = "Gioca";
+"NOEMAMSG" = "  >>No Exact Matches (words to words, pics to pics) is enabled.";
+"USERNAMESETP1" = "Nome del giocatore è >";
+"USERNAMESETP2" = "<. Aggiornamento con <Nome giocatore> pulsante.";
+"GAMEPAUSED" = "Gioco in pausa, cliccare <Continuare>!";
+"YESAISB" = "Sì! %@ è %@.";
+"SORRYANOTBNEEDC" = "Mi dispiace! %@ non è %@  -- necessità %@!";
+"SORRYNOEM" = "Mi dispiace! %@ Non è %@  -- necessità %@!  %@";
+"ENDREVIEWGAME" = "Rivedere tutto il gioco.  Premere il pulsante GIOCA per passare al modo di GIOCA modo, o continuare con revisione di un nuovo gioco o di una nuova scheda."; 
+"ENDOFGAMEMSG" = "Avete vinto in %d secondi!!! Avete sbagliato %d domande. Nome della scheda : %@  Punteggio : %d + (10×%d) = %d";
+"WLCLEARSCORES" = "Wordz Lianxi Chiaro Punteggi Migliori";
+"SCORESCLEARED" = "Punteggi Migliori è chiaro.";
+"DONE" = "Fatto";
+"ASKCLEARSCORES" = "Chiaro Punteggi Migliori?";
+"CANCEL" = "Annullare";
+"OK" = "OK";

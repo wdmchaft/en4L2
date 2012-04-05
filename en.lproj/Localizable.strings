@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  fr4L2
+
+  Created by Harry Layman on 7/21/11.
+  Copyright 2011 NewportCoastSoftware. All rights reserved.
+*/
+"PAUSE" = "Pause";
+"RESUME" = "Resume";
+"REVIEW" = "Review";
+"PLAY" = "Play";
+"NOEMAMSG" = "  >>No Exact Matches (words to words, pics to pics) is enabled.";
+"USERNAMESETP1" = "User name is set to >";
+"USERNAMESETP2" = "<. Update with Set User button any time.";
+"GAMEPAUSED" = "Game Paused; click resume!";
+"YESAISB" = "Yes! %@ is %@.";
+"SORRYANOTBNEEDC" = "Sorry! %@ is not %@  -- need %@!";
+"SORRYNOEM" = "Sorry! %@ is not %@  -- need %@!  %@";
+"ENDREVIEWGAME" = "Review game complete.  Press PLAY button to switch to PLAY mode, or continue review with a new game or set."; 
+"ENDOFGAMEMSG" = "You won in %d seconds!!! You missed %d problems. Set Name : %@  Score : %d + (10 × %d) = %d";
+"WLCLEARSCORES" = "Wordz Lianxi Clear Scores";
+"SCORESCLEARED" = "High Scores are Cleared.";
+"DONE" = "Done";
+"ASKCLEARSCORES" = "Clear High Scores?";
+"CANCEL" = "Cancel";
+"OK" = "OK";

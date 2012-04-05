@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  fr4L2
+
+  Created by Harry Layman on 7/21/11.
+  Copyright 2011 NewportCoastSoftware. All rights reserved.
+*/
+"PAUSE" = "暂停";
+"RESUME" = "继续";
+"REVIEW" = "复习";
+"PLAY" = "开始游戏";
+"NOEMAMSG" = "  >>注意:（允许一模一样）处于关闭状态.>";
+"USERNAMESETP1" = "用户名被设置到 >";
+"USERNAMESETP2" = "<. 随时更新->设置用户<-按钮.";
+"GAMEPAUSED" = "游戏暂停，点击 >继续<";
+"YESAISB" = "对! %@ 是 %@.";
+"SORRYANOTBNEEDC" = "不对! %@ 不是 %@  -- 需要 %@!";
+"SORRYNOEM" = "不对! %@ 不是 %@  -- 需要 %@! %@";
+"ENDREVIEWGAME" = "复习游戏结束。按“开始游戏”键切换到游戏模式，或者继续复习下一个新游戏或新系列."; 
+"ENDOFGAMEMSG" = "你赢了，时间是 %d 秒!!\n你错过了 %d 问题。\n系列名称 : %@\n分数 : %d + (10×%d)  = %d\n";
+"WLCLEARSCORES" = "语言4初学者: 清除高分";
+"SCORESCLEARED" = "高分清除了.";
+"DONE" = "完成";
+"ASKCLEARSCORES" = "清除高分呢?";
+"CANCEL" = "取消";
+"OK" = "证实";

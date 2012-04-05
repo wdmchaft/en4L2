@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  fr4L2
+
+  Created by Harry Layman on 7/21/11.
+  Copyright 2011 NewportCoastSoftware. All rights reserved.
+*/
+"PAUSE" = "Pausa";
+"RESUME" = "Continuar";
+"REVIEW" = "Revisión";
+"PLAY" = "Jugar";
+"NOEMAMSG" = "  >>No hay coincidencias exactas (palabras a las palabras, fotos para imágenes) está habilitado.";
+"USERNAMESETP1" = "Nombre del jugador se se fija como >";
+"USERNAMESETP2" = "<. Actualización con el botón Nombre de Jugador.";
+"GAMEPAUSED" = "Juego en pausa, haga clic en continuar!";
+"YESAISB" = "¡Sí! %@ es %@.";
+"SORRYANOTBNEEDC" = "Lo sentimos! %@ no es %@ -- necesitan %@!";
+"SORRYNOEM" = "Lo sentimos! %@ no es %@ -- necesitan %@!   %@";
+"ENDREVIEWGAME" = "Juego de revision completo.  Presione el botón JUGAR para cambiar el modo JUGAR, o continuar la revision con un Nuevo juego o set."; 
+"ENDOFGAMEMSG" = "¡¡Ganó en %d segundos!!!\nFalló en %d problemas.\nNombre de Set: %@\nPuntuación: %d + 10×%d = %d";
+"WLCLEARSCORES" = "Wordz Lianxi Resultados Claros";
+"SCORESCLEARED" = "Las puntuaciones se borran.";
+"DONE" = "Hecho";
+"ASKCLEARSCORES" = "Borrar Las Puntuaciones??";
+"CANCEL" = "Cancelar";
+"OK" = "OK";

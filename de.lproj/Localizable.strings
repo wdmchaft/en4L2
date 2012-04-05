@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  fr4L2
+
+  Created by Harry Layman on 7/21/11.
+  Copyright 2011 NewportCoastSoftware. All rights reserved.
+*/
+"PAUSE" = "Pause";
+"RESUME" = "Weitere";
+"REVIEW" = "Rezensieren";
+"PLAY" = "Spielen";
+"NOEMAMSG" = " >>Erlauben genaue Übereinstimmung<< derzeit nicht erlaubt; siehe Anleitung.";
+"USERNAMESETP1" = "Spielernamen eingestellt >";
+"USERNAMESETP2" = "<. Änderung mit <Spielernamen> Taste.";
+"GAMEPAUSED" = "Spiel in Pause, auf « weiter” klicken!!";
+"YESAISB" = "Ja! %@ ist %@.";
+"SORRYANOTBNEEDC" = "Schade!  %@ ist nicht  %@  -- brauchen %@!";
+"SORRYNOEM" = "Schade!  %@ ist nicht  %@  -- brauchen %@!  %@";
+"ENDREVIEWGAME" = "Gesamtes Spiel anzeigen.  START-Taste drücken, um in den SPIEL-Modus zu wechseln, Oder weitermachen mit Wiederanzeige neues Spiel oder Kartei"; 
+"ENDOFGAMEMSG" = "Sie haben in %d ekunden gewonnen!!!\nSie haben %d Fehler gemacht.\nGrouppennamen : %@\nScore : %d + 10×%d = %d";
+"WLCLEARSCORES" = "Wordz Lianxi Löschen Scores";
+"SCORESCLEARED" = "Löschen hohen Punktzahlen.";
+"DONE" = "Fertig";
+"ASKCLEARSCORES" = "Löschen hohen Punktzahlen?";
+"CANCEL" = "Abbrechen";
+"OK" = "OK";
